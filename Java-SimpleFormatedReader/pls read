@@ -1,0 +1,11 @@
+Please remember to delete the manual file assignation and uncomment the lines for the user to add their own paths/names.
+Remember that java reads files from the main project directory unless you specify it inputting the filepath.
+
+Small program that reads a file and adds the line where the characters are written.
+
+Output example:
+
+Linea 1: Lorem Ipsum
+Linea 2: Something
+Linea 3:
+Linea 4: Español
