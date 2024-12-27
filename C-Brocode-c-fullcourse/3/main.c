@@ -1,0 +1,26 @@
+//Formatting
+
+#include <stdio.h>
+
+int main(){
+	
+	float item1 = 5.75;
+	float item2 = 10.00;
+	float item3 = 100.99;
+	
+	printf("Item 1: %f$\n", item1); //print without formatting
+	printf("Item 2: %f$\n", item2);
+	printf("Item 3: %f$\n", item3);
+	printf("Item 1: %.2f$\n", item1); //print with just 2 decimals
+	printf("Item 2: %.2f$\n", item2);
+	printf("Item 3: %.2f$\n", item3);
+	printf("Item 1: %8.2f$\n", item1); //print with 8 right align spaces between and just 2 decimals
+	printf("Item 2: %8.2f$\n", item2);
+	printf("Item 3: %8.2f$\n", item3);
+	printf("Item 1: %-8.2f$\n", item1); //print with 8 left align spaces between and just 2 decimals
+	printf("Item 2: %-8.2f$\n", item2);
+	printf("Item 3: %-8.2f$\n", item3);
+
+	
+	return 0;
+}
