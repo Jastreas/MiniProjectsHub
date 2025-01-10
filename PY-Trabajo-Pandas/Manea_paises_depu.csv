@@ -1,0 +1,198 @@
+Pais,Sexo,Poblacion
+Total,Total,48085361.0
+Total,Hombres,23565593.0
+Total,Mujeres,24519768.0
+España,Total,39881155.0
+España,Hombres,19597540.0
+España,Mujeres,20283615.0
+Europa,Total,2146434.0
+Europa,Hombres,1023973.0
+Europa,Mujeres,1122461.0
+Bulgaria,Hombres,51917.0
+Bulgaria,Mujeres,54763.0
+Dinamarca,Total,9267.0
+Dinamarca,Hombres,4865.0
+Dinamarca,Mujeres,4402.0
+Finlandia,Total,12029.0
+Finlandia,Hombres,5218.0
+Finlandia,Mujeres,6811.0
+Francia,Total,215283.0
+Francia,Hombres,104689.0
+Francia,Mujeres,110594.0
+Irlanda,Total,18913.0
+Irlanda,Hombres,10054.0
+Irlanda,Mujeres,8859.0
+Italia,Total,154749.0
+Italia,Hombres,88932.0
+Italia,Mujeres,65817.0
+Paises Bajos,Total,55312.0
+Paises Bajos,Hombres,28933.0
+Paises Bajos,Mujeres,26379.0
+Polonia,Total,52289.0
+Polonia,Hombres,20784.0
+Polonia,Mujeres,31505.0
+Portugal,Total,95171.0
+Portugal,Hombres,51680.0
+Portugal,Mujeres,43491.0
+Alemania,Total,176496.0
+Alemania,Hombres,85117.0
+Alemania,Mujeres,91379.0
+Rumania,Total,538699.0
+Rumania,Hombres,256339.0
+Rumania,Mujeres,282360.0
+Suecia,Total,22041.0
+Suecia,Hombres,10413.0
+Suecia,Mujeres,11628.0
+Lituania,Total,14917.0
+Lituania,Hombres,5998.0
+Lituania,Mujeres,8919.0
+Reino Unido,Total,293696.0
+Reino Unido,Hombres,148946.0
+Reino Unido,Mujeres,144750.0
+Noruega,Total,11169.0
+Noruega,Hombres,5518.0
+Noruega,Mujeres,5651.0
+Suiza,Total,59406.0
+Suiza,Hombres,29313.0
+Suiza,Mujeres,30093.0
+Ucrania,Total,197192.0
+Ucrania,Hombres,75722.0
+Ucrania,Mujeres,121470.0
+Moldavia,Total,24134.0
+Moldavia,Hombres,11169.0
+Moldavia,Mujeres,12965.0
+Rusia,Total,118801.0
+Rusia,Hombres,44615.0
+Rusia,Mujeres,74186.0
+Otro pais del resto de Europa,Total,76870.0
+Otro pais del resto de Europa,Hombres,37091.0
+Otro pais del resto de Europa,Mujeres,39779.0
+Africa,Total,1435992.0
+Africa,Hombres,876057.0
+Africa,Mujeres,559935.0
+Argelia,Total,79026.0
+Argelia,Hombres,50597.0
+Argelia,Mujeres,28429.0
+Gambia,Total,27574.0
+Gambia,Hombres,22718.0
+Gambia,Mujeres,4856.0
+Ghana,Total,22266.0
+Ghana,Hombres,16096.0
+Ghana,Mujeres,6170.0
+Guinea,Total,14869.0
+Guinea,Hombres,10293.0
+Guinea,Mujeres,4576.0
+Guinea Ecuatorial,Total,23723.0
+Guinea Ecuatorial,Hombres,8667.0
+Guinea Ecuatorial,Mujeres,15056.0
+Mali,Total,32676.0
+Mali,Hombres,28823.0
+Mali,Mujeres,3853.0
+Marruecos,Total,1026371.0
+Marruecos,Hombres,593567.0
+Marruecos,Mujeres,432804.0
+Mauritania,Total,11830.0
+Mauritania,Hombres,8830.0
+Mauritania,Mujeres,3000.0
+Nigeria,Total,33390.0
+Nigeria,Hombres,19438.0
+Nigeria,Mujeres,13952.0
+Senegal,Total,91568.0
+Senegal,Hombres,73269.0
+Senegal,Mujeres,18299.0
+Otro pais de Africa,Total,72699.0
+Otro pais de Africa,Hombres,43759.0
+Otro pais de Africa,Mujeres,28940.0
+America del Norte,Total,145865.0
+America del Norte,Hombres,64127.0
+America del Norte,Mujeres,81738.0
+Estados Unidos de America,Total,64227.0
+Estados Unidos de America,Hombres,30006.0
+Estados Unidos de America,Mujeres,34221.0
+Mexico,Total,72669.0
+Mexico,Hombres,29827.0
+Mexico,Mujeres,42842.0
+Canada,Total,8969.0
+Canada,Hombres,4294.0
+Canada,Mujeres,4675.0
+Centro America y Caribe,Total,720178.0
+Centro America y Caribe,Hombres,278283.0
+Centro America y Caribe,Mujeres,441895.0
+Cuba,Total,198639.0
+Cuba,Hombres,90652.0
+Cuba,Mujeres,107987.0
+Honduras,Total,177616.0
+Honduras,Hombres,55100.0
+Honduras,Mujeres,122516.0
+Nicaragua,Total,80013.0
+Nicaragua,Hombres,24255.0
+Nicaragua,Mujeres,55758.0
+Republica Dominicana,Total,193653.0
+Republica Dominicana,Hombres,78867.0
+Republica Dominicana,Mujeres,114786.0
+Otro pais de Centro America y Caribe,Total,70257.0
+Otro pais de Centro America y Caribe,Hombres,29409.0
+Otro pais de Centro America y Caribe,Mujeres,40848.0
+Sudamerica,Total,2996913.0
+Sudamerica,Hombres,1328628.0
+Sudamerica,Mujeres,1668285.0
+Argentina,Total,373064.0
+Argentina,Hombres,187001.0
+Argentina,Mujeres,186063.0
+Bolivia,Total,183734.0
+Bolivia,Hombres,74687.0
+Bolivia,Mujeres,109047.0
+Brasil,Total,167265.0
+Brasil,Hombres,63807.0
+Brasil,Mujeres,103458.0
+Colombia,Total,715655.0
+Colombia,Hombres,307117.0
+Colombia,Mujeres,408538.0
+Chile,Total,70307.0
+Chile,Hombres,32991.0
+Chile,Mujeres,37316.0
+Ecuador,Total,430837.0
+Ecuador,Hombres,200136.0
+Ecuador,Mujeres,230701.0
+Paraguay,Total,127767.0
+Paraguay,Hombres,42221.0
+Paraguay,Mujeres,85546.0
+Peru,Total,322407.0
+Peru,Hombres,141215.0
+Peru,Mujeres,181192.0
+Uruguay,Total,86620.0
+Uruguay,Hombres,42960.0
+Uruguay,Mujeres,43660.0
+Venezuela,Total,518918.0
+Venezuela,Hombres,236333.0
+Venezuela,Mujeres,282585.0
+Otro pais de Sudamerica,Total,339.0
+Otro pais de Sudamerica,Hombres,160.0
+Otro pais de Sudamerica,Mujeres,179.0
+Asia,Total,534877.0
+Asia,Hombres,288173.0
+Asia,Mujeres,246704.0
+Bangladesh,Total,19162.0
+Bangladesh,Hombres,13561.0
+Bangladesh,Mujeres,5601.0
+China,Total,192346.0
+China,Hombres,88740.0
+China,Mujeres,103606.0
+Filipinas,Total,54807.0
+Filipinas,Hombres,19336.0
+Filipinas,Mujeres,35471.0
+India,Total,60679.0
+India,Hombres,37032.0
+India,Mujeres,23647.0
+Pakistan,Total,114693.0
+Pakistan,Hombres,81398.0
+Pakistan,Mujeres,33295.0
+Otro pais de Asia,Total,93190.0
+Otro pais de Asia,Hombres,48106.0
+Otro pais de Asia,Mujeres,45084.0
+Oceania,Total,9590.0
+Oceania,Hombres,5192.0
+Oceania,Mujeres,4398.0
+Extranjera,Total,8204206.0
+Extranjera,Hombres,3968053.0
+Extranjera,Mujeres,4236153.0
