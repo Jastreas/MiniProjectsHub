@@ -22,12 +22,13 @@ This repository is licensed under the **MIT License with Attribution**. For more
 ## 📝 **Contact**
 
 If you have any questions or suggestions, feel free to open an issue or contact me via:
-- **GitHub**: [yourusername](https://github.com/yourusername)
-- **Email**: your.email@example.com
+- **GitHub**: [Jastreas](https://github.com/Jastreas)
+- **Email**: J.AndreasManea@proton.me
 
 Happy Coding! 🎉
 
 ---
+
 ## **NOTE**:
 ## 🗂 **Project Structure**
 
