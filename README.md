@@ -10,6 +10,10 @@ Welcome to **MiniProjectsHub**! This repository contains a collection of small p
 - [x] **Python**
 - [x] **C**
 - [x] **C++**
+- [x] **Lua**
+
+**Note:**
+Im not doing lua right now, maybe ill come back in some time.
 
 ---
 
