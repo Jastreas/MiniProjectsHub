@@ -15,7 +15,7 @@ Welcome to **MiniProjectsHub**! This repository contains a collection of small p
 
 ## 📄 **License**
 
-This repository is licensed under the **MIT License with Attribution**. For more details, check the [LICENSE](LICENSE) file. Feel free to use, modify, and distribute the code as needed.
+This repository is licensed under the **MIT License with Attribution**. For more details, check the [LICENSE](LICENSE.md) file. Feel free to use, modify, and distribute the code as needed.
 
 ---
 
