@@ -8,6 +8,7 @@ Welcome to **MiniProjectsHub**! This repository contains a collection of small p
 
 The repository is organized by language, with each folder containing relevant projects and utilities. Here's the general structure:
 
+```bash
 MiniProjectsHub/
 ├── C++/
 │   └── C++-BrocodeCourse/
@@ -16,8 +17,6 @@ MiniProjectsHub/
 ├── Python/
 │   └── Py-PandasProject/
 └── README.md
-
-
 
 Each project folder contains:
 - **Source code**
