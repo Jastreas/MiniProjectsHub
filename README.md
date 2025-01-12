@@ -8,11 +8,11 @@ The repository is organized by language, with each folder containing relevant pr
 
 MiniProjectsHub/
 ├── C++/
-│   └── C++-BrocodeCourse/
+│  └── C++-BrocodeCourse/
 ├── Java/
-│   └── Java-CamelExercise/
+│  └── Java-CamelExercise/
 ├── Python/
-│   └── Py-PandasProject/
+│  └── Py-PandasProject/
 └── README.md
 
 Each project folder contains:
