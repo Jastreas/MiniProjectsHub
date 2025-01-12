@@ -17,6 +17,7 @@ MiniProjectsHub/
 ├── Python/
 │   └── Py-PandasProject/
 └── README.md
+```bash
 
 Each project folder contains:
 - **Source code**
