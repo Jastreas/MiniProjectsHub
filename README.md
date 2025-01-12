@@ -28,10 +28,15 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 Happy Coding! 🎉
 
 ---
-
+## **NOTE**:
 ## 🗂 **Project Structure**
 
 The repository is organized by language, with each folder containing relevant projects and utilities. Here's the general structure:
+
+Each project folder contains:
+- **Source code**
+- **Instructions** on how to run the project (if applicable)
+- **Dependencies**, if any
 
 ```bash
 MiniProjectsHub/
@@ -42,9 +47,3 @@ MiniProjectsHub/
 ├── Python/
 │   └── Py-PandasProject/
 └── README.md
-
-## **NOTE**:
-Each project folder contains:
-- **Source code**
-- **Instructions** on how to run the project (if applicable)
-- **Dependencies**, if any
