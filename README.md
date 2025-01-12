@@ -8,7 +8,14 @@ Welcome to **MiniProjectsHub**! This repository contains a collection of small p
 
 The repository is organized by language, with each folder containing relevant projects and utilities. Here's the general structure:
 
-MiniProjectsHub/ ├── C++/ │ └── C++-BrocodeCourse/ ├── Java/ │ └── Java-CamelExercise/ ├── Python/ │ └── Py-PandasProject/ └── README.md
+MiniProjectsHub/\n
+├── C++/ 
+│  └── C++-BrocodeCourse/ 
+├── Java/ 
+│ └── Java-CamelExercise/ 
+├── Python/ 
+│ └── Py-PandasProject/ 
+└── README.md
 
 
 Each project folder contains:
