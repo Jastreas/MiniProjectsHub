@@ -16,8 +16,11 @@ def dataframe_depura(df):
     """Limpio el dataframe introducido"""
     df = df.dropna(subset=['Poblacion'])#Elimino filas que no tengan valores en la columna crítica
     df = df[df['Poblacion'] >= 0] #o que tengan números negativos
-    df['Poblacion'] = pd.to_numeric(df['Poblacion'], errors='coerce') #Convierto columna a numerica
+    df['Poblacion'] = pd.to_numeric(df['Poblacion'], errors='coerce') #Convierto columna a numerica #no es esto
     df = df.dropna(subset=['Poblacion']) #Elimino todas las filas que no se han podido convertir
+    df = df.reset_index(drop=True) #Reindexo el df para liberar la memoria que no se esta eliminando después de quitar las filas inutiles
+    
+    print(df.memory_usage(deep=True))
     return df
 
 # Diccionario para asignar continentes a los países (se hace para poder crear un df con continentes en el punto 4)
@@ -68,7 +71,7 @@ def ej3():
 
     porcentaje_mujeres = (total_mujeres / total_poblacion) * 100 #porcentaje total de mujeres
     porcentaje_mujeres = round(porcentaje_mujeres, 2)
-    print("Total poblacion hombres= \t\t\t\t", porcentaje_mujeres, " %")
+    print("Total poblacion mujeres= \t\t\t\t", porcentaje_mujeres, " %")
 
     porcentaje_esp = (total_poblacion_esp/total_poblacion) * 100 #porcentaje total nacidos en españa
     porcentaje_esp = round(porcentaje_esp, 2)
