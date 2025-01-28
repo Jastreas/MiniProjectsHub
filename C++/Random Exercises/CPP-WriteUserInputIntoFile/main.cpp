@@ -32,3 +32,5 @@ int main(){
 
 return 0;
 }
+
+//it only saves till the first space
